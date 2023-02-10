@@ -1,0 +1,5 @@
+/* template/myTemplate/myTemplate.wxss */
+.title {
+    color:cornflowerblue;
+    font-size: 40rpx;
+}
